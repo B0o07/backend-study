@@ -17,8 +17,8 @@ console.log(maior);
 //Terceiro Exercício
 
 const usuario = {
-    nome: "Saulo Weslen da Silva Sousa",
-    email: "wsaullo15@gmail.com",
+    nome: "Teste a Nos",
+    email: "teste@gmail.com",
 };
 
 console.log(usuario);
